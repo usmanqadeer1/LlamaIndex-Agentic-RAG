@@ -25,3 +25,5 @@ Constructs a multi-document agent for processing and reasoning with multiple res
    ```sh
    git clone https://github.com/username/repository-name.git
    cd repository-name
+
+![Full Agent Reasoning Loop](Full_agent_reasoning_loop.png)
